@@ -1,0 +1,8 @@
+main: cn.wode490390.nukkit.cmdblock.CommandBlockPlugin
+name: "VanillaCommandBlock"
+description: "VanillaCommandBlock plugin for Nukkit"
+author: "wode490390"
+website: "http://wode490390.cn/"
+version: "${pom.version}"
+api: ["1.0.0"]
+load: STARTUP
